@@ -1,4 +1,6 @@
-## Hallo, I am Natallia, Web-Developer
+## Hi, I'm Natallia
+### Web Developer
+with a background in UI/UX Design
 
 ### Tools
 <div>
